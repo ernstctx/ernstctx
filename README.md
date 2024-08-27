@@ -4,12 +4,13 @@
 
 - <b>[Active Directory Home Lab](https://github.com/ernstctx/..)
 - [Hello World](https://github.com/ernstctx/..)
+- [SIEM deployment](https://github.com/ernstctx/SIEM-deployment)
+- [File Integrity Monitor](https://github.com/ernstctx/File-Integrity-Monitor)
 
 <h2> Certifications
 
   Google IT Support Professional
-  
-  CompTIA Security+
+    CompTIA Security+
   
 <h2>📺 Popular YouTube Videos</h2>
 
