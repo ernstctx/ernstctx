@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>[Active Directory Home Lab](https://github.com/ernstctx/ernstctx/Active-Directory-home-lab)
+- <b>[Active Directory Home Lab](https://github.com/ernstctx/Active-Directory-home-lab)
 - [SOC Automation Home Lab](https://github.com/ernstctx/SOC-Automation-)
 - [SOAR/EDR implementation Home Lab](https://github.com/ernstctx/Cybersecurity-SOAR-EDR)
 - [Vulnerability management Home Lab](https://github.com/ernstctx/Vulnerability-Management-Home-Lab) 
@@ -30,10 +30,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on ...Cybesecurity Home Labs
+- 🌱 I’m currently learning ... Nessus
+- 👯 I’m looking to collaborate on ...automation programs for Cybersecurity threat hunting
+- 🤔 I’m looking for help with ...coding in Python, Java, C
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
