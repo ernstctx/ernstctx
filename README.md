@@ -12,7 +12,8 @@
 <h2> Certifications
 
   Google IT Support Professional
-    CompTIA Security+
+  
+  CompTIA Security+
   
 <h2>📺 Popular YouTube Videos</h2>
 
